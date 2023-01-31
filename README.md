@@ -9,3 +9,7 @@
 - Drill down into the Data
 - Making comparisons Between District and Charter
 - Using Different Pandas Function(read_csv, describe, mean, min, max, loc, iloc, sum, isnull, groupby,...)
+
+
+## Contributors
+Blendion Krasniqi
