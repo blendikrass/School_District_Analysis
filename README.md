@@ -3,6 +3,7 @@
 
 ## Technologies
 - Python 3.7 or later
+- JupyterLab
 - Collecting the Data
 - Pandas lib to handle data
 - Summarizing the Data
